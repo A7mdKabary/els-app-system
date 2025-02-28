@@ -1,7 +1,7 @@
 [
   {
     "home.html": "true",
-    "events.html": "false",
+    "events.html": "true",
     "inbox.html": "true",
     "top10.html": "true",
     "edupal.html": "true",
