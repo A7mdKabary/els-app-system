@@ -5,9 +5,9 @@
     "inbox.html": "false",
     "top10.html": "false",
     "edupal.html": "false",
-    "marks.html": "true",
-    "sheets.html": "false",
-    "profile.html": "true",
+    "marks.html": "false",
+    "sheets.html": "true",
+    "profile.html": "false",
     "update.html": "false"
   }
 ]
