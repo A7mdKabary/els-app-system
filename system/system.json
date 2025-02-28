@@ -3,7 +3,7 @@
     "home.html": "true",
     "events.html": "false",
     "inbox.html": "true",
-    "top10.html": "false",
+    "top10.html": "true",
     "edupal.html": "false",
     "marks.html": "false",
     "sheets.html": "true",
