@@ -5,7 +5,7 @@
     "inbox.html": "false",
     "top10.html": "false",
     "edupal.html": "false",
-    "marks.html": "true",
+    "marks.html": "false",
     "sheets.html": "true",
     "profile.html": "true",
     "update.html": "false"
