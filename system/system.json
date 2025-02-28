@@ -1,8 +1,8 @@
 [
   {
     "home.html": "true",
-    "events.html": "true",
-    "inbox.html": "false",
+    "events.html": "false",
+    "inbox.html": "true",
     "top10.html": "false",
     "edupal.html": "false",
     "marks.html": "false",
