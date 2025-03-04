@@ -4,8 +4,8 @@
     "events.html": "true",
     "inbox.html": "true",
     "top10.html": "true",
-    "edupal.html": "false",
-    "marks.html": "true",
+    "edupal.html": "true",
+    "marks.html": "false",
     "sheets.html": "false",
     "profile.html": "true",
     "update.html": "false"
