@@ -6,7 +6,7 @@
     "top10.html": "true",
     "edupal.html": "true",
     "marks.html": "true",
-    "sheets.html": "true",
+    "sheets.html": "false",
     "profile.html": "true",
     "update.html": "false"
   }
